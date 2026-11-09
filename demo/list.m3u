@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/canal1.png" group-title="Test channels",Test 1 - Akamai (live)
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/canal2.png" group-title="Test channels",Test 2 - Apple BipBop
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/canal3.png" group-title="Test channels",Test 3 - Mux
+https://test-streams.mux.dev/test_001/stream.m3u8
+#EXTINF:-1 tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/bbb.png" group-title="Demo movies",Big Buck Bunny (2008)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/tos.png" group-title="Demo movies",Tears of Steel (2012)
+https://test-streams.mux.dev/tos_ismc/main.m3u8
+#EXTINF:-1 tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/sintel.png" group-title="Demo movies",Sintel - trailer (2010)
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
+#EXTINF:-1 tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/serie.png" group-title="Demo series",Demo Series S01E01
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/serie.png" group-title="Demo series",Demo Series S01E02
+https://test-streams.mux.dev/tos_ismc/main.m3u8
+#EXTINF:-1 tvg-logo="https://emanoelsaraiva.github.io/iptv-s-updates/demo/serie.png" group-title="Demo series",Demo Series S01E03
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
